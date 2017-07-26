@@ -1,1 +1,1 @@
-# WindbgRemoteDebuggingPlatform
+# ADAL SPA Angular & Node
